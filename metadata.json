@@ -1,0 +1,5 @@
+{
+  "name": "LLM Chat & Admin",
+  "description": "A full-stack ChatGPT-like application with React, FastAPI, HuggingFace integration, and a comprehensive Admin dashboard.",
+  "requestFramePermissions": []
+}
