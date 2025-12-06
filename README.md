@@ -15,6 +15,8 @@ A production-minded ChatGPT-like application with a React frontend and FastAPI b
 3. Open `http://localhost:5173` for the frontend.
 4. Open `http://localhost:8000/docs` for the backend API swagger.
 
+
+
 ## Manual Setup
 
 ### Backend
